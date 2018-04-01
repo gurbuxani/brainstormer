@@ -1,0 +1,12 @@
+PIG GAME
+
+Based on the starter code found in 'The Complete JavaScript Course: Build a Real-World Project' by Jonas Schmedtmann 
+URL: https://www.udemy.com/the-complete-javascript-course/
+
+CREDITS:
+Pig Icon: Pig by Ealancheliyan s from the Noun Project
+Winner's Trophy Icon: winner by Creative Stall from the Noun Project
+Arrow Icon: Arrow by Shital Patel from the Noun Project
+Background CSS: http://www.heropatterns.com/
+
+Made by Ashwin Gurbuxani
